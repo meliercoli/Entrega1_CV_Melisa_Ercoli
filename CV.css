@@ -1,0 +1,175 @@
+*{
+    color: rgb(0, 0, 0)
+    font-family: Roboto, sans-serif;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+.downnav {
+  background-image: url("Fondo4.jpg");
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: Roboto, sans-serif;
+  width: 100%;
+  height: 100%;
+  padding-top:1px;
+  padding-bottom:0px;
+  margin-top: 0px;
+  margin-bottom:0px;
+  margin-right: 0px;
+  padding-right: 0px;
+  background-image: linear-gradient(to right,rgb(116, 185, 182),rgb(196, 226, 233),rgb(247, 246, 246))
+}
+
+body {
+  margin-left: 200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  width: 100%;
+  height: 100%;
+  padding-right:0px;
+  border-right:  solid rgb(255, 255, 255);
+  border-top: 3px solid rgb(255, 255, 255);
+  border-bottom: 3px solid rgb(255, 255, 255);
+}
+
+.image{
+  border-bottom: 3px solid rgb(255, 255, 255);
+  border-radius: 0px;
+}
+
+.upnav h1{
+  background-color: rgb(66, 61, 61);
+  font-family: Roboto, sans-serif;
+  color: white;
+  height: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 0px;
+  border-bottom: 3px solid rgb(255, 255, 255);
+  
+}
+
+.sidenav {  
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(66, 61, 61);
+    overflow-x: hidden;
+    font-family: Roboto, sans-serif;
+    border: 3px solid rgb(255, 255, 255);
+  }
+   
+  .sidenav a {
+    color: rgb(179, 189, 206);
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+    font-family: Roboto, sans-serif;
+  }
+  
+  /* Change color on hover */
+  .sidenav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .content ul {
+    width: 90%;
+    padding-left: 30px;
+    padding-right: 0px;
+    text-align: justify;
+    height: 100%;
+    padding-bottom: 10px;
+    padding-top:0px;
+    margin-bottom: 0px;
+    list-style: none;
+
+  }
+
+ 
+p img {
+    vertical-align: middle; 
+    margin-right: 10px; 
+    width: 12%;
+    
+  }
+
+  span img {
+    vertical-align: middle; 
+    margin-right: 10px; 
+    width: 12%;
+    
+  }
+.nombre {
+  color: rgb(248, 245, 245);
+  text-align: center;
+}
+.datos p {
+  color: rgb(248, 245, 245);
+  text-align: center;
+  padding-top:10px;
+  padding-right: 0px;
+}
+
+.datos a span {
+  color: rgb(248, 245, 245);
+  text-align: center;
+  padding-top:10px;
+  padding-right: 0px;
+}
+
+.titulos{
+    color: rgb(255, 255, 255);
+    
+    padding-left: 10px;
+    padding-right: 0px;
+    text-align: justify;
+    font-family: Roboto, sans-serif;
+    background-color: rgb(86, 105, 116);
+  }
+
+.tituloexp h2{
+     color: rgb(255, 255, 255);
+     
+     padding-left: 10px;
+     padding-right: 0px;
+     text-align: justify;
+     font-family: Roboto, sans-serif;
+     background-color: rgb(86, 105, 116);
+     margin-top:20px;
+     margin-bottom:0;
+}       
+
+.subtitulos h3{
+  color: rgb(255, 255, 255);
+  
+  padding-left: 20px;
+  padding-right: 0px;
+  text-align: justify;
+  font-family: Roboto, sans-serif;
+  background-color: rgb(176, 187, 194);
+}
+
+.textos{  
+  color: rgb(29, 13, 102);
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 0px;
+  text-align: justify;
+  font-family: Roboto, sans-serif;
+}
+
+
+
+
+
+
